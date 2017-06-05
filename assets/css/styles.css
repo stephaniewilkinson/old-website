@@ -3,19 +3,21 @@ html {
 }
 
 .nav-wrapper {
-  color: #F0ECDE;
   background-color: rgb(52,60,90);
-  height: 92px;
 }
-nav  {
+
+nav ul {
   color: #F0ECDE;
   text-transform: uppercase;
   letter-spacing: 0.3em;
   font-size: 12px;
   font-weight: lighter;
 }
-nav ul a {
+
+nav .brand-logo {
   color: #F0ECDE;
+  font-family: 'Playfair Display', serif;
+  font-weight: 400;
 }
 
 .card-title,
@@ -24,17 +26,12 @@ h2,
 h3
  {
   font-family: 'Playfair Display', serif;
+  font-weight: 700;
   color: #3D556E;
 }
 
-h4,
-h5,
-h6 {
-  font-family: 'Roboto Condensed', sans-serif;
-}
 
 .cards-container {
-  padding: 2em 0px 2em 0px;
   -webkit-columns: 300px;
   -moz-columns: 300px;
   columns: 300px;
