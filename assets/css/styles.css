@@ -1,0 +1,33 @@
+html {
+  background-color: #F0ECDE;
+}
+
+.nav-wrapper {
+  color: #F0ECDE;
+  background-color: rgb(52,60,90);
+  height: 92px;
+}
+nav  {
+  color: #F0ECDE;
+  text-transform: uppercase;
+  letter-spacing: 0.3em;
+  font-size: 12px;
+  font-weight: lighter;
+}
+nav ul a {
+  color: #F0ECDE;
+}
+
+h1,
+h2,
+h3
+ {
+  font-family: 'Playfair Display', serif;
+  color: #3D556E;
+}
+
+h4,
+h5,
+h6 {
+  font-family: 'Roboto Condensed', sans-serif;
+}
