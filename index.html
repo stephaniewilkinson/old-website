@@ -17,11 +17,15 @@
     <nav>
       <div class="nav-wrapper">
         <a href="/" class="brand-logo">Stephanie Wilkinson</a>
-        <ul id="nav-mobile" class="right hide-on-med-and-down">
-          <li><a href="http://blog.stephanieawilkinson.com/">Blog</a></li>
+        <ul id="dropdown1" class="dropdown-content">
           <li><a href="https://github.com/stephaniewilkinson">Github</a></li>
           <li><a href="https://twitter.com/stephanieblack">Twitter</a></li>
+          <li class="divider"></li>
           <li><a href="https://www.linkedin.com/in/stephanieawilkinson">LinkedIn</a></li>
+        </ul>
+        <ul id="nav-mobile" class="right hide-on-med-and-down">
+          <li><a href="http://blog.stephanieawilkinson.com/">Blog</a></li>
+          <li><a class="dropdown-button" href="#!" data-activates="dropdown1">elsewhere<i class="material-icons right">arrow_drop_down</i></a></li>
         </ul>
       </div>
     </nav>
@@ -45,9 +49,9 @@
       </div>
     </div>
 
-    <div class="row  blue-grey lighten-5">
-      <h3>Work</h3>
-      <div class="col m10 offset-m1 l4 offset-l1">
+    <h3>Projects</h3>
+    <div class="cards-container">
+      <div>
         <div class="card hoverable">
           <div class="card-image">
             <img src="img/booktools.png">
@@ -58,7 +62,7 @@
           </div>
         </div>
       </div>
-      <div class="col m10 offset-m1 l4 offset-l1">
+      <div>
         <div class="card hoverable">
           <div class="card-image">
             <img src="img/portal.png">
@@ -68,8 +72,6 @@
             <p>The Accreditation Portal is a Rails app for California schools being accredited with <a href="http://caisca.org">the California Association of Independent Schools.</a></p>
           </div>
         </div>
-      </div>
-      <div class="col m10 offset-m1 l4 offset-l1">
         <div class="card hoverable">
           <div class="card-image">
             <img src="https://cloud.githubusercontent.com/assets/2397260/16511720/1577021a-3f08-11e6-8788-ad5dada6289e.png">
@@ -79,8 +81,6 @@
             <p>Concert Match is a MEAN stack app that you can use by logging in with Spotify and it will show you concerts of your favorite bands coming up near your location.</p>
           </div>
         </div>
-      </div>
-      <div class="col m10 offset-m1 l4 offset-l1">
         <div class="card hoverable">
           <div class="card-image">
             <img src="img/doreen.png">
@@ -90,8 +90,6 @@
             <p>Curl Queen Doreen is a single page HTML site, featuring Bootstrap, responsive buttons, pages, and assets, and integration with Yelp and Instagram APIs.</p>
           </div>
         </div>
-      </div>
-      <div class="col m10 offset-m1 l4 offset-l1">
         <div class="card hoverable">
           <div class="card-image">
             <img src="https://github.com/stephaniewilkinson/macros/raw/master/app/assets/images/screenshot1.png">
@@ -101,8 +99,6 @@
             <p>Master Your Macros is a Rails app for managing your food intake according to macronutrients.</p>
           </div>
         </div>
-      </div>
-      <div class="col m10 offset-m1 l4 offset-l1">
         <div class="card hoverable">
           <div class="card-image">
             <img src="https://github.com/stephaniewilkinson/abalone/raw/master/public/assets/img/screenshot.png">
