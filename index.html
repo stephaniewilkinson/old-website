@@ -16,14 +16,14 @@
   <body>
     <nav>
       <div class="nav-wrapper">
-        <a href="/" class="brand-logo center">Stephanie Wilkinson</a>
+        <a href="#" class="brand-logo left">Stephanie Wilkinson</a>
         <ul id="dropdown1" class="dropdown-content">
           <li><a href="https://github.com/stephaniewilkinson">Github</a></li>
           <li><a href="https://twitter.com/stephanieblack">Twitter</a></li>
           <li class="divider"></li>
           <li><a href="https://www.linkedin.com/in/stephanieawilkinson">LinkedIn</a></li>
         </ul>
-        <ul id="nav-mobile" class="right hide-on-med-and-down">
+        <ul id="nav-mobile" class="right">
           <li><a href="http://blog.stephanieawilkinson.com/">Blog</a></li>
           <li><a class="dropdown-button" href="#!" data-activates="dropdown1">elsewhere<i class="material-icons right">arrow_drop_down</i></a></li>
         </ul>
@@ -32,88 +32,95 @@
     <div class="container">
       <h3>About</h3>
       <div class="row">
-      <div class="col s8">
+      <div class="col s12 m6 l9">
         <p>Hi! I'm Stephanie. I'm a web developer with four years of experience with Ruby and frameworks like Roda and Rails, and have leveled up my Javascript skills at General Assembly for the MEAN stack. I am the Technology Director at the California Association of Independent Schools.</p>
         <p></p>
         <p>I live in LA and have been working since 2009 with schools and the nonprofit sector, and I love to give back to my community by teaching RailsGirls and other volunteering. I'm active in the LA programmer community and run a weekly programming meetup called Ruby in Hollywood. I also have a lot of side projects in various languages and frameworks. Right now I'm working on a Phoenix app using Phoenix channels.</p>
-        <p></p>
-        <p>I built and manage a Rails app for the California Association of Independent Schools, and travel the state giving talks and workshops to teach schools how to use the app.</p>
       </div>
-      <div class="col s4">
+      <div class="col s12 m6 l3">
         <img class="responsive-img" alt="Stephanie Wilkinson" src="squareprofile.png">
       </div>
     </div>
 
     <h3>Side Projects</h3>
-    <div class="cards-container">
-
-      <div class="card">
-        <div class="card-image waves-effect waves-block waves-light">
-          <img class="activator" src="assets/img/bookwyrm.png">
-        </div>
-        <div class="card-content">
-          <span class="card-title activator">Bookwyrm<i class="material-icons right">more_vert</i></span>
-        </div>
-        <div class="card-reveal">
-          <span class="card-title">Bookwyrm<i class="material-icons right">close</i></span>
-          <p>Bookwyrm is a Roda app for bookworms. It copies books from your Goodreads shelves and imports them to your Bookmooch wishlist. It's basically the missing link between the two APIs.</p>
-          <div class="card-action">
-            <a href="https://bookmooch.herokuapp.com/">View the app</a>
-            <a href="https://github.com/stephaniewilkinson/bookmooch">Read the code</a>
+    <div class="row">
+      <div class="col s6">
+        <div class="card">
+          <div class="card-image waves-effect waves-block waves-light">
+            <img class="activator" src="assets/img/bookwyrm.png">
+          </div>
+          <div class="card-content">
+            <span class="card-title activator">Bookwyrm<i class="material-icons right">more_vert</i></span>
+          </div>
+          <div class="card-reveal">
+            <span class="card-title">Bookwyrm<i class="material-icons right">close</i></span>
+            <p>Bookwyrm is a Roda app for bookworms. It copies books from your Goodreads shelves and imports them to your Bookmooch wishlist. It's basically the missing link between the two APIs.</p>
+            <div class="card-action">
+              <a href="https://bookmooch.herokuapp.com/">View the app</a>
+              <a href="https://github.com/stephaniewilkinson/bookmooch">Read the code</a>
+            </div>
           </div>
         </div>
       </div>
 
-      <div class="card">
-        <div class="card-image waves-effect waves-block waves-light">
-          <img class="activator" src="assets/img/concertmatch.jpg">
+      <div class="col xs12 s6">
+        <div class="card">
+          <div class="card-image waves-effect waves-block waves-light">
+            <img class="activator" src="assets/img/concertmatch.jpg">
+          </div>
+          <div class="card-content">
+            <span class="card-title activator">Concert Match<i class="material-icons right">more_vert</i></span>
+          </div>
+          <div class="card-reveal">
+            <span class="card-title">Concert Match<i class="material-icons right">close</i></span>
+            <p>Concert Match is a MEAN stack app that you can use by logging in with Spotify and it will show you concerts of your favorite bands coming up near your location. It uses both the Spotify and Bandsintown API.</p>
+            <div class="card-action">
+              <a href="https://concert-match.herokuapp.com/">View the app</a>
+              <a href="https://github.com/stephaniewilkinson/concert-match">Read the code</a>
+            </div>
+          </div>
         </div>
-        <div class="card-content">
-          <span class="card-title activator">Concert Match<i class="material-icons right">more_vert</i></span>
-        </div>
-        <div class="card-reveal">
-          <span class="card-title">Concert Match<i class="material-icons right">close</i></span>
-          <p>Concert Match is a MEAN stack app that you can use by logging in with Spotify and it will show you concerts of your favorite bands coming up near your location. It uses both the Spotify and Bandsintown API.</p>
-          <div class="card-action">
-            <a href="https://concert-match.herokuapp.com/">View the app</a>
-            <a href="https://github.com/stephaniewilkinson/concert-match">Read the code</a>
+      </div>
+    </div>
+
+    <div class="row">
+      <div class="col s6">
+        <div class="card">
+          <div class="card-image waves-effect waves-block waves-light">
+            <img class="activator" src="assets/img/bodytemp.jpg">
+          </div>
+          <div class="card-content">
+            <span class="card-title activator">Bodytemp<i class="material-icons right">more_vert</i></span>
+          </div>
+          <div class="card-reveal">
+            <span class="card-title">Bodytemp<i class="material-icons right">close</i></span>
+            <p>A mobile app for Android and iOS built on the Ionic Angular framework.</p>
+            <p>Deployed on firebase for the eventual transition to multiplatform.</p>
+            <div class="card-action">
+              <a href="https://github.com/stephaniewilkinson/bodytemp-ionic">Read the code</a>
+            </div>
           </div>
         </div>
       </div>
 
-      <div class="card">
-        <div class="card-image waves-effect waves-block waves-light">
-          <img class="activator" src="assets/img/bodytemp.jpg">
-        </div>
-        <div class="card-content">
-          <span class="card-title activator">Bodytemp<i class="material-icons right">more_vert</i></span>
-        </div>
-        <div class="card-reveal">
-          <span class="card-title">Bodytemp<i class="material-icons right">close</i></span>
-          <p>A mobile app for Android and iOS built on the Ionic Angular framework.</p>
-          <p>Deployed on firebase for the eventual transition to multiplatform.</p>
-          <div class="card-action">
-            <a href="https://github.com/stephaniewilkinson/bodytemp-ionic">Read the code</a>
+      <div class="col s6">
+        <div class="card">
+          <div class="card-image waves-effect waves-block waves-light">
+            <img class="activator" src="assets/img/abalone.jpg">
           </div>
-        </div>
-      </div>
-
-      <div class="card">
-        <div class="card-image waves-effect waves-block waves-light">
-          <img class="activator" src="assets/img/abalone.jpg">
-        </div>
-        <div class="card-content">
-          <span class="card-title activator">Abalone<i class="material-icons right">more_vert</i></span>
-        </div>
-        <div class="card-reveal">
-          <span class="card-title">Abalone<i class="material-icons right">close</i></span>
-          <p>A playable, in-browser version of the strategy game Abalone.</p>
-          <p>Abalone is a challenging game of strategy that for two players. Each take turns moving marbles around the board, with the objective to remove other player's marbles.</p>
-          <p>Deployed on firebase for multi-player enjoyment using firebase dB.
-          You can play with anyone online if you both visit the hosted version on firebase, since it has a firebase dB backend.</p>
-          <div class="card-action">
-            <a href="https://abalone-game.firebaseapp.com/">View the app</a>
-            <a href="https://github.com/stephaniewilkinson/abalone">Read the code</a>
+          <div class="card-content">
+            <span class="card-title activator">Abalone<i class="material-icons right">more_vert</i></span>
+          </div>
+          <div class="card-reveal">
+            <span class="card-title">Abalone<i class="material-icons right">close</i></span>
+            <p>A playable, in-browser version of the strategy game Abalone.</p>
+            <p>Abalone is a challenging game of strategy that for two players. Each take turns moving marbles around the board, with the objective to remove other player's marbles.</p>
+            <p>Deployed on firebase for multi-player enjoyment using firebase dB.
+            You can play with anyone online if you both visit the hosted version on firebase, since it has a firebase dB backend.</p>
+            <div class="card-action">
+              <a href="https://abalone-game.firebaseapp.com/">View the app</a>
+              <a href="https://github.com/stephaniewilkinson/abalone">Read the code</a>
+            </div>
           </div>
         </div>
       </div>
@@ -122,7 +129,7 @@
 
     <h3>Community</h3>
     <div class="row">
-      <div class="col s6">
+      <div class="col m6">
         <div class="card">
           <div class="card-image">
             <img src="assets/img/rubyinhollywoodgroup.jpg" alt="Ruby in Hollywood Members">
@@ -137,7 +144,7 @@
           </div>
         </div>
       </div>
-      <div class="col s6">
+      <div class="col m6">
         <div class="card">
           <div class="card-image">
             <img src="assets/img/railsgirls.jpg" alt="">
@@ -156,7 +163,7 @@
 
     <h3>Presentations</h3>
     <div class="row">
-      <div class="col s4">
+      <div class="col l4">
         <div class="card">
           <div class="card-image">
             <img class="materialboxed" src="assets/img/rockymountainruby.jpg">
@@ -171,7 +178,7 @@
           </div>
         </div>
       </div>
-      <div class="col s4">
+      <div class="col l4">
         <div class="card">
           <div class="card-image">
             <img class="materialboxed" src="assets/img/rubyinhollywood.jpg">
@@ -186,7 +193,7 @@
           </div>
         </div>
       </div>
-      <div class="col s4">
+      <div class="col l4">
         <div class="card">
           <div class="card-image">
             <img class="materialboxed" src="assets/img/privacy.png">

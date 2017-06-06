@@ -29,20 +29,3 @@ h3
   font-weight: 700;
   color: #3D556E;
 }
-
-
-.cards-container {
-  -webkit-columns: 300px;
-  -moz-columns: 300px;
-  columns: 300px;
-  -webkit-column-gap: 2em;
-  -moz-column-gap: 2em;
-  column-gap: 2em;
-}
-
-.card {
-  margin: 0 0 30px 0;
-  -webkit-column-break-inside: avoid;
-  page-break-inside: avoid;
-  break-inside: avoid;
-}
