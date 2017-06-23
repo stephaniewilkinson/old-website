@@ -1,7 +1,6 @@
 html {
-  background-color: #F0ECDE;
+  background-color: #f0f0f0;
 }
-
 .nav-wrapper {
   background-color: rgb(52,60,90);
 }
@@ -28,4 +27,11 @@ h3
   font-family: 'Playfair Display', serif;
   font-weight: 700;
   color: #3D556E;
+}
+.row .col {
+  padding: 1.5rem 3rem;
+}
+
+.container {
+  width: 90%;
 }
