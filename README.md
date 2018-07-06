@@ -1,4 +1,3 @@
-# Motivation for this document
 This document is a quick introduction to me--how and why I work. My goal is to make onboarding as smooth as possible for new team members.
 
 # About Me
@@ -11,7 +10,7 @@ I wrote my first line of code in 2009 and started writing code for work in 2013.
 **Community.**
 I founded Ruby in Hollywood, a code group in LA. I enjoy attending meetups and connecting with other devs at conferences, and talks. I completely support and advocate for members of my team who want to improve their skills outside of work.
 
-## Mottos
+# Mottos
 **"Fortune favors the brave".**
 There are two pieces to this. First, vulnerability is bravery. My goal is to get the team to the place where we are unafraid to admit what we need. It takes courage to be authentic and to admit when you need help. Secondly, let's exercise bravery with our software and sometimes go off the beaten track.
 
@@ -28,7 +27,7 @@ You were hired because you are smart and capable. My philosophy is to hire skill
 **Teamwork.**
 I expect each member of the team to treat each other with respect and consideration. Comments on PRs should be positive and helpful. A rule of thumb here is "assume good intent". Assume that your teammate tried their best and proceed accordingly. My goal for our team is to be proud of each other's work and to cheer each other's successes.
 
-## Logistics
+# Logistics
 **Schedule.**
 My work hours are 9-5 M-F Pacific. Expect to hear from me outside of these hours, but don't feel any obligation to respond until you start work (unless I say it's urgent). If you do respond, I won't expect you to respond outside of working hours subsequently.
 
@@ -47,14 +46,14 @@ For members of the team who aren't in the majority time zone, we will try to kee
 **Responsiveness.**
 Within working hours, please respond to slack or email messages within a couple hours. If you need more time (say you need to research the answer), respond as such. For example, "I need to look into this, I should know more tomorrow." Or even a simple, "Let me check."
 
-## 1:1s
+# 1:1s
 **Scheduling.**
 I like to shoot for biweekly 1:1s, but I'm flexible. My priority is to give us a regular recurring time to touch base and keep the channels of communication open.
 
 **Topics.**
 One on ones are your time to to share what's on your mind. I may have updates to share with you but it's your time. You can share what's frustrating you, any blockers you have, ideas, plans, etc. I'm not expecting a status update from you, unless that's what you want to share. My job is to remove blockers for you, so let me know how I can help.
 
-## Where to focus on your first 90 days?
+# Where to focus on your first 90 days?
 **First day.**
 Clone the repo(s) and make sure you can build, run, and test it. Join all of our platforms--Slack, GitHub, etc.
 
