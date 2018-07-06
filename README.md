@@ -6,14 +6,14 @@ This document is a quick introduction to me--how and why I work. My goal is to m
 My priority is to create an environment that enables our team to deliver remarkable software to our customers.
 
 **Background.**
-I wrote my first line of code in 2009 and started writing code for work in 2013. For more about me, check out my GitHub or website.
+I wrote my first line of code in 2009 and started writing code for work in 2013. For more about me, check out my [GitHub](https://www.github.com/stephaniewilkinson) or [website](stephanieawilkinson.com).
 
 **Community.**
 I founded Ruby in Hollywood, a code group in LA. I enjoy attending meetups and connecting with other devs at conferences, and talks. I completely support and advocate for members of my team who want to improve their skills outside of work.
 
 # Mottos
 **"Fortune favors the brave".**
-There are two pieces to this. First, vulnerability is bravery. My goal is to get the team to the place where we are unafraid to admit what we need. It takes courage to be authentic and to admit when you need help. Secondly, let's exercise bravery with our software and sometimes go off the beaten track.
+There are two pieces to this. First, vulnerability is bravery. My goal is to get the team to the place where we are unafraid to admit what we need. It takes courage to be authentic and to admit when you need help. Secondly, let's exercise bravery with our software and sometimes be willing to go off the beaten track.
 
 **"Everything is an experiment".**
  The beauty of software is that it's impossible to write code that can't be undone.
