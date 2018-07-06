@@ -5,11 +5,8 @@ This document is a quick introduction to me--how and why I work. My goal is to m
 **Role.**
 My priority is to create an environment that enables our team to deliver remarkable software to our customers.
 
-**Background.**
-I wrote my first line of code in 2009 and started writing code for work in 2013. For more about me, check out my [GitHub](https://www.github.com/stephaniewilkinson) or [website](stephanieawilkinson.com).
-
 **Community.**
-I founded Ruby in Hollywood, a code group in LA. I enjoy attending meetups and connecting with other devs at conferences, and talks. I completely support and advocate for members of my team who want to improve their skills outside of work.
+I enjoy attending meetups and connecting with other developers at conferences, and talks. I completely support and advocate for members of my team who want to improve their skills outside of work.
 
 # Mottos
 **"Fortune favors the brave".**
@@ -30,7 +27,7 @@ I expect each member of the team to treat each other with respect and considerat
 
 # Logistics
 **Schedule.**
-My work hours are 9-5 M-F Pacific. Expect to hear from me outside of these hours, but don't feel any obligation to respond until you start work (unless I say it's urgent). If you do respond, I won't expect you to respond outside of working hours subsequently.
+My work hours are 9-5 M-F. Expect to hear from me outside of these hours, but don't feel any obligation to respond until you start work (unless I say it's urgent). If you do respond, I won't expect you to respond outside of working hours subsequently.
 
 **Calendar.**
 I keep my calendar updated. My team can book time with me by sending an invite--no lead-up necessary.
