@@ -1,3 +1,4 @@
+# About this README
 This document is a quick introduction to me--how and why I work. My goal is to make onboarding as smooth as possible for new team members.
 
 # About Me
