@@ -1,4 +1,7 @@
 # About this README
+
+[![Codacy Badge](https://api.codacy.com/project/badge/Grade/fb9325fb02ff4f71a804131107a9bded)](https://app.codacy.com/app/stephaniewilkinson/stephaniewilkinson.github.io?utm_source=github.com&utm_medium=referral&utm_content=stephaniewilkinson/stephaniewilkinson.github.io&utm_campaign=badger)
+
 This document is a quick introduction to me--how and why I work. My goal is to make onboarding as smooth as possible for new team members.
 
 # About Me
