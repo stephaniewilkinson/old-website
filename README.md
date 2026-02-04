@@ -36,7 +36,7 @@ My work hours are 9-5 M-F. Expect to hear from me outside of these hours, but do
 I keep my calendar updated. My team can book time with me by sending an invite--no lead-up necessary.
 
 **Meetings.**
-I'm a big believer in the adage "meetings are for decision-making". My goal is to keep updates and other share-outs to asynchronous communication. I also vastly prefer videochat in meetings to audio-only.
+I'm a big believer in the adage "meetings are for decision-making". My goal is to keep updates and other share-outs to asynchronous communication. 
 
 **Working remotely.**
 I love to use Slack as a tool to keep remote teammates connected. Please connect early and often with your teammates on slack. I think a little silliness on Slack can be a great way to connect with the team, as long as it's in the right channel (preferably not #general or #ops).
